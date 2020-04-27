@@ -1,14 +1,3 @@
-/*    nome: caractere
-    numero: real
-inicio
-// Seção de Comandos
-   escreval ("Digite o seu nome")
-       leia(nome)
-   Escreval ("Digite o seu numero")
-       leia(numero)
-       
-   Escreval (nome, " : ", numero, 15)
-*/
 
     var nome, numero;
 
